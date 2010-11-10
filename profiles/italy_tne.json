@@ -1,0 +1,1 @@
+[{"Ways": [1935, -2, 9], "Nodes": [3416, -6, 11]}, {"tunnel": {"*": [426, 0, 2]}, "bridge": {"*": [646, 0, 2]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1740, -4, 6], "footway": [879, 3, 1]}, "surface": {"*": [1030, 0, 1]}}]

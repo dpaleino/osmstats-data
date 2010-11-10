@@ -1,0 +1,1 @@
+[{"Nodes": [3253, -3, 15]}, {"shop": {"*": [330, -1, 4]}, "addr:housenumber": {"*": [100, 0, 10]}, "amenity": {"fuel": [484, -3, 1], "cafe": [271, -1, 2], "restaurant": [376, -2, 3]}, "tourism": {"*": [944, -2, 1]}, "highway": {"bus_stop": [263, 0, 3]}}]
