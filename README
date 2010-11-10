@@ -1,0 +1,10 @@
+Data for OSMStats
+=================
+
+This is the data parsed for OSMStats to use. It is put in a separate
+repository to let people only download the source code, without all
+the parsed data.
+
+This repository is meant to be used as a submodule of the main one:
+
+    http://github.com/dpaleino/new-osm-stats
