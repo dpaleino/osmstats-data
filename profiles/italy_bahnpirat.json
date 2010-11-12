@@ -1,1 +1,1 @@
-[{"Ways": [1603, 1, 17], "Nodes": [1468, -1, 370]}, {"note": {"*": [102, 0, 13]}, "bridge": {"*": [589, 0, 3]}}]
+[{"Ways": [1266, 337, 33], "Nodes": [1379, 89, 431]}, {"note": {"*": [98, 4, 13]}, "bridge": {"*": [585, 4, 3]}, "barrier": {"*": [596, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3149, 0, 1]}, "power": {"tower": [34, 0, 58]}}]

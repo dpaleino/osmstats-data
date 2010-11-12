@@ -1,1 +1,1 @@
-[{"Nodes": [3502, -4, 9]}, {"amenity": {"place_of_worship": [689, -2, 1], "cafe": [238, -1, 2], "bar": [198, -1, 2]}, "tourism": {"*": [952, -2, 1]}, "highway": {"bus_stop": [346, -1, 2]}}]
+[{"Nodes": [3526, -24, 9]}, {"amenity": {"place_of_worship": [691, -2, 1], "cafe": [238, 0, 2], "bar": [198, 0, 2]}, "tourism": {"*": [962, -10, 1]}, "highway": {"bus_stop": [351, -5, 2]}}]

@@ -1,1 +1,1 @@
-[{"Ways": [3500, -4, 1]}, {"maxspeed": {"*": [600, -2, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2902, 1, 1]}}]
+[{"Ways": [3527, -27, 1]}, {"maxspeed": {"*": [598, 2, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2919, -17, 1]}}]

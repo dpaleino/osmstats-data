@@ -1,1 +1,1 @@
-[{"Ways": [3868, -4, 1], "Nodes": [4972, -9, 1]}, {"place": {"*": [1088, 3, 1], "village": [758, 5, 1]}}]
+[{"Ways": [3900, -32, 1], "Nodes": [5007, -35, 1]}, {"place": {"*": [1095, -7, 1], "village": [763, -5, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3245, 0, 1]}}]
