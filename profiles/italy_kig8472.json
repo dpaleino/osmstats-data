@@ -1,1 +1,1 @@
-[{"Ways": [3586, -28, 1], "Relations": [402, 0, 1]}, {"note": {"*": [333, -3, 1]}, "highway": {"path": [852, -3, 1]}}]
+[{"Ways": [2392, 1194, 5], "Nodes": [3802, 0, 6], "Relations": [405, -3, 1]}, {"amenity": {"telephone": [106, 0, 1]}, "tourism": {"*": [613, 0, 3]}, "highway": {"path": [852, 0, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2489, 0, 2], "footway": [762, 0, 2]}}]
