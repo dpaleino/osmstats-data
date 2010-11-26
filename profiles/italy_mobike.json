@@ -1,1 +1,1 @@
-[{"Nodes": [2316, -3, 88]}, {"amenity": {"drinking_water": [236, 1, 2]}}]
+[{"Ways": [3231, 0, 2], "Nodes": [2320, -4, 88]}, {"amenity": {"drinking_water": [238, -2, 2]}, "maxspeed": {"*": [635, 0, 1]}, "boundary": {"*": [801, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2641, 0, 2]}}]
