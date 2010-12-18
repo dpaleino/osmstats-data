@@ -1,1 +1,1 @@
-[{"Ways": [3869, -20, 1], "Nodes": [1852, -10, 193]}, {"amenity": {"bank": [325, -2, 1], "pharmacy": [450, -4, 1]}, "barrier": {"*": [440, -6, 2]}}]
+[{"Ways": [3894, -45, 1], "Nodes": [1867, -25, 193]}, {"amenity": {"bank": [326, -3, 1], "pharmacy": [453, -7, 1]}, "barrier": {"*": [440, -6, 2]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3237, -54, 1]}}]

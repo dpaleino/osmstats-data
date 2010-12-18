@@ -1,1 +1,1 @@
-[{"Ways": [3931, 0, 1], "Nodes": [3472, 0, 12]}, {"amenity": {"fuel": [641, 0, 1]}, "highway": {"bus_stop": [702, 0, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3255, 0, 1]}}]
+[{"Nodes": [3542, 0, 11]}, {"highway": {"bus_stop": [706, 0, 1]}}]
