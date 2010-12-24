@@ -1,1 +1,1 @@
-[{"Ways": [3717, -46, 1], "Nodes": [3428, -37, 13], "Relations": [572, -8, 1]}, {"amenity": {"place_of_worship": [884, -15, 1]}, "place": {"*": [555, -9, 3], "village": [335, -2, 3]}, "boundary": {"*": [644, -20, 1]}, "leisure": {"park": [484, -7, 1]}}]
+[{"Ways": [3732, -15, 1], "Nodes": [3443, -15, 13], "Relations": [573, -1, 1]}, {"amenity": {"place_of_worship": [803, 81, 1]}, "place": {"*": [555, 0, 3], "village": [337, -2, 3]}, "boundary": {"*": [641, 3, 1]}, "leisure": {"park": [485, -1, 1]}}]

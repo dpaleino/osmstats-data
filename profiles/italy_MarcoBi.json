@@ -1,1 +1,1 @@
-[{"Ways": [2800, -39, 3], "Nodes": [3224, -58, 19]}, {"amenity": {"parking": [975, -14, 2]}, "leisure": {"park": [525, -6, 1]}, "boundary": {"*": [856, -20, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3009, -48, 1]}}]
+[{"Ways": [2811, -11, 3], "Nodes": [3376, -152, 15]}, {"amenity": {"parking": [1337, -362, 1]}, "boundary": {"*": [861, -5, 1]}, "leisure": {"park": [525, 0, 1]}}]
