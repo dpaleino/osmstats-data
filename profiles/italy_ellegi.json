@@ -1,1 +1,1 @@
-[{"Nodes": [3870, -14, 6], "Relations": [398, -5, 2]}, {"shop": {"*": [659, -5, 2]}, "amenity": {"place_of_worship": [1094, -6, 1], "cafe": [589, -4, 1], "bar": [479, 0, 1], "pharmacy": [431, -1, 1]}}]
+[{"Nodes": [3882, -12, 6], "Relations": [400, -2, 2]}, {"shop": {"*": [658, 1, 2]}, "amenity": {"place_of_worship": [1098, -4, 1], "cafe": [593, -4, 1], "bar": [483, -4, 1], "pharmacy": [431, 0, 1]}}]
