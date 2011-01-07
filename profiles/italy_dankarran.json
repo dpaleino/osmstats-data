@@ -1,1 +1,1 @@
-[{"Ways": [3253, -19, 2], "Nodes": [3844, -12, 7]}, {"building": {"yes": [844, -10, 1], "*": [863, -10, 1]}, "amenity": {"drinking_water": [191, 0, 4], "pub": [135, 0, 1]}, "tourism": {"*": [906, -2, 2]}, "highway": {"street_lamp": [9, 1, 4]}}]
+[{"Ways": [3274, -21, 2], "Nodes": [3866, -22, 7]}, {"building": {"yes": [856, -12, 1], "*": [876, -13, 1]}, "amenity": {"drinking_water": [192, -1, 4], "pub": [187, -52, 1]}, "tourism": {"*": [908, -2, 2]}, "highway": {"street_lamp": [10, -1, 4]}}]
