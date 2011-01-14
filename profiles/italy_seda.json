@@ -1,1 +1,1 @@
-[{"Ways": [3586, -20, 1], "Nodes": [3971, -21, 5]}, {"addr:housenumber": {"*": [271, 1, 1]}, "sac_scale": {"*": [582, -4, 1]}, "amenity": {"parking": [1284, -9, 1]}, "tourism": {"*": [708, -1, 2]}, "highway": {"bus_stop": [513, 0, 1], "path": [955, -6, 1]}}]
+[{"Ways": [3610, -24, 1], "Nodes": [4001, -30, 5]}, {"addr:housenumber": {"*": [275, -4, 1]}, "sac_scale": {"*": [586, -4, 1]}, "amenity": {"parking": [1290, -6, 1]}, "tourism": {"*": [712, -4, 2]}, "highway": {"bus_stop": [517, -4, 1], "path": [964, -9, 1]}}]
