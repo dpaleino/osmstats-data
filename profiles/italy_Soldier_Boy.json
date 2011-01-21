@@ -1,1 +1,1 @@
-[{"Relations": [491, -4, 1]}, {}]
+[{"Ways": [3302, 0, 2], "Nodes": [5236, 0, 1], "Relations": [367, 124, 2]}, {"shop": {"*": [828, 0, 1]}, "addr:housenumber": {"*": [282, 0, 1]}, "amenity": {"place_of_worship": [833, 0, 1]}, "building": {"yes": [647, 0, 2], "*": [658, 0, 2]}}]
