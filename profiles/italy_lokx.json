@@ -1,1 +1,1 @@
-[{"Ways": [3142, -20, 2], "Nodes": [5285, -352, 1]}, {"addr:housenumber": {"*": [305, -3, 1]}, "building": {"yes": [853, -6, 1], "*": [870, -5, 1]}}]
+[{"Ways": [3150, -8, 2], "Nodes": [5316, -31, 1]}, {"addr:housenumber": {"*": [312, -7, 1]}, "building": {"yes": [855, -2, 1], "*": [874, -4, 1]}, "tracktype": {"*": [925, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2990, 0, 1]}, "surface": {"*": [1167, 0, 1]}}]

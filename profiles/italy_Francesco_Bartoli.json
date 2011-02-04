@@ -1,1 +1,1 @@
-[{"Nodes": [5188, -41, 1]}, {}]
+[{"Ways": [2913, 0, 3], "Nodes": [2063, 3125, 152], "Relations": [613, 0, 1]}, {"landuse": {"*": [984, 0, 1], "forest": [276, 0, 1]}, "maxspeed": {"*": [495, 0, 2]}, "place": {"*": [1112, 0, 1], "village": [763, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2469, 0, 2]}, "surface": {"*": [1022, 0, 2]}}]

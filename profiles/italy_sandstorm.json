@@ -1,1 +1,1 @@
-[{"Ways": [3923, -20, 1], "Nodes": [2220, -14, 117]}, {"shop": {"*": [847, -64, 1]}, "amenity": {"school": [614, -5, 1]}, "tourism": {"*": [1151, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3153, -4, 1]}, "ele": {"*": [495, 0, 1]}}]
+[{"Nodes": [2254, -34, 114]}, {"shop": {"*": [796, 51, 1]}, "amenity": {"school": [626, -12, 1]}, "tourism": {"*": [1160, -9, 1]}, "ele": {"*": [498, -3, 1]}}]
