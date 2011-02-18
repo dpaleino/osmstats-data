@@ -1,1 +1,1 @@
-[{"Ways": [2430, -1, 5], "Nodes": [1425, -5, 446]}, {"building": {"yes": [866, -5, 1], "*": [958, -7, 1]}, "landuse": {"*": [898, -10, 1]}, "tracktype": {"*": [987, 0, 1]}, "height": {"*": [127, -3, 1]}}]
+[{"Ways": [2445, -15, 5], "Nodes": [1429, -4, 446]}, {"tracktype": {"*": [990, -3, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2843, 0, 1]}}]

@@ -1,1 +1,1 @@
-[{"Ways": [2641, -6, 4], "Nodes": [2755, -2, 50]}, {"shop": {"*": [502, -1, 3]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3101, -19, 1], "footway": [686, -2, 3]}}]
+[{"Ways": [2659, -18, 4], "Nodes": [2767, -12, 50]}, {"shop": {"*": [504, -2, 3]}, "highway": {"footway": [690, -4, 3]}}]

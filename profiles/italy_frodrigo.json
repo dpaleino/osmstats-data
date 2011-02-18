@@ -1,1 +1,1 @@
-[{"Ways": [3005, -2, 2], "Nodes": [4875, -24, 1], "Relations": [541, -7, 1]}, {"waterway": {"*": [568, -1, 1]}, "boundary": {"*": [689, -14, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2765, -21, 1]}}]
+[{"Ways": [3025, -20, 2], "Nodes": [5225, -350, 1], "Relations": [549, -8, 1]}, {"waterway": {"*": [591, -23, 1]}, "boundary": {"*": [691, -2, 1]}}]

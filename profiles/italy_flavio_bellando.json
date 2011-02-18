@@ -1,1 +1,1 @@
-[{"Nodes": [4457, -19, 3]}, {"amenity": {"pharmacy": [749, -7, 1]}}]
+[{"Ways": [2653, 0, 4], "Nodes": [2144, 2313, 138]}, {"shop": {"*": [519, 0, 2]}, "amenity": {"post_office": [493, 0, 1], "pharmacy": [752, -3, 1]}, "place": {"*": [1199, 0, 1], "village": [837, 0, 1]}, "leisure": {"playground": [374, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2386, 0, 3]}}]
