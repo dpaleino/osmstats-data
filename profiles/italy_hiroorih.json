@@ -1,1 +1,1 @@
-[{"Ways": [1940, -10, 11], "Nodes": [4096, 85, 5]}, {"sac_scale": {"*": [475, -11, 2]}, "highway": {"steps": [218, -1, 5], "footway": [557, -1, 5]}}]
+[{"Ways": [1957, -17, 11], "Nodes": [4122, -26, 5]}, {"sac_scale": {"*": [603, -128, 1]}, "highway": {"steps": [220, -2, 5], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3011, 0, 1], "footway": [596, -39, 4]}}]
