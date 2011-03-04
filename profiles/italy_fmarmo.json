@@ -1,1 +1,1 @@
-[{"Nodes": [4613, -31, 2]}, {"place": {"town": [166, 0, 1], "*": [659, -2, 2], "village": [648, -3, 1]}}]
+[{"Ways": [830, 0, 103], "Nodes": [702, 3911, 2102], "Relations": [589, 0, 1]}, {"note": {"*": [176, 0, 6]}, "bridge": {"*": [541, 0, 4]}, "place": {"town": [166, 0, 1], "*": [663, -4, 2], "village": [653, -5, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [660, 0, 88]}, "surface": {"*": [869, 0, 3]}}]

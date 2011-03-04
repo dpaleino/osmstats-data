@@ -1,1 +1,1 @@
-[{"Ways": [3864, -23, 1], "Nodes": [4960, -35, 1]}, {"addr:housenumber": {"*": [275, -2, 1]}, "opening_hours": {"*": [185, 0, 1]}, "amenity": {"restaurant": [1139, -9, 1]}, "note": {"*": [372, -1, 1]}, "wheelchair": {"*": [174, -2, 1]}}]
+[{"Ways": [3871, -7, 1], "Nodes": [4983, -23, 1]}, {"addr:housenumber": {"*": [281, -6, 1]}, "opening_hours": {"*": [186, -1, 1]}, "amenity": {"restaurant": [1144, -5, 1]}, "note": {"*": [381, -9, 1]}, "wheelchair": {"*": [172, 2, 1]}}]
