@@ -1,1 +1,1 @@
-[{"Nodes": [4882, 584, 2], "Relations": [584, 0, 1]}, {"addr:housenumber": {"*": [270, 0, 1]}, "office": {"*": [12, 11, 2]}}]
+[{"Nodes": [4900, -18, 2], "Relations": [583, 1, 1]}, {"addr:housenumber": {"*": [272, -2, 1]}, "office": {"*": [13, -1, 2]}}]

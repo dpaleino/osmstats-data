@@ -1,1 +1,1 @@
-[{"Ways": [2724, -15, 4], "Nodes": [4618, -28, 2]}, {"building": {"yes": [890, -7, 1], "*": [909, -6, 1]}, "sac_scale": {"*": [499, -6, 2]}, "amenity": {"restaurant": [571, -4, 2], "parking": [1196, -1, 1]}, "highway": {"footway": [776, -6, 2]}}]
+[{"Ways": [2736, -12, 4], "Nodes": [4634, -16, 2]}, {"building": {"yes": [898, -8, 1], "*": [920, -11, 1]}, "sac_scale": {"*": [494, 5, 2]}, "amenity": {"restaurant": [571, 0, 2], "parking": [1201, -5, 1]}, "highway": {"footway": [780, -4, 2]}}]

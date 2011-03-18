@@ -1,1 +1,1 @@
-[{"Nodes": [3827, 0, 9]}, {}]
+[{"Ways": [1972, 0, 11], "Nodes": [2674, 1153, 63]}, {"amenity": {"place_of_worship": [911, 0, 1], "school": [544, 0, 1]}, "surface": {"*": [980, 0, 2]}, "place": {"*": [799, 0, 1], "village": [524, 0, 1]}, "landuse": {"residential": [335, 0, 1], "*": [792, 0, 1]}, "tourism": {"*": [1159, 0, 1]}, "highway": {"steps": [437, 0, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1892, 0, 6], "path": [809, 0, 2]}}]
