@@ -1,1 +1,1 @@
-[{"Ways": [2553, -6, 5], "Nodes": [1900, -6, 212]}, {"tracktype": {"*": [674, -3, 3]}, "place": {"*": [743, -6, 2], "hamlet": [377, -6, 2]}, "highway": {"path": [776, -9, 3]}}]
+[{"Ways": [2562, -9, 5], "Nodes": [1909, -9, 212]}, {"tracktype": {"*": [681, -7, 3]}, "place": {"*": [741, 2, 2], "hamlet": [375, 2, 2]}, "highway": {"path": [778, -2, 3], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3172, 0, 1]}}]

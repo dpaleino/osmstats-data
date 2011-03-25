@@ -1,1 +1,1 @@
-[{"Nodes": [5303, 0, 1]}, {"addr:housenumber": {"*": [381, 0, 1]}, "amenity": {"restaurant": [1104, 0, 1]}}]
+[{"Ways": [3179, 0, 2], "Nodes": [4146, 1157, 6]}, {"addr:housenumber": {"*": [387, -6, 1]}, "bridge": {"*": [1080, 0, 1]}, "amenity": {"restaurant": [1111, -7, 1]}, "building": {"yes": [850, 0, 1], "*": [868, 0, 1]}, "wheelchair": {"*": [149, 0, 1]}, "tourism": {"*": [1115, 0, 1]}, "highway": {"footway": [940, 0, 1]}}]
