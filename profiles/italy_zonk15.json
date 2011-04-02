@@ -1,1 +1,1 @@
-[{"Nodes": [1983, -12, 190]}, {"amenity": {"bench": [61, 0, 10]}}]
+[{"Ways": [2696, 0, 4], "Nodes": [1940, 43, 206]}, {"building": {"yes": [906, 0, 1], "*": [924, 0, 1]}, "amenity": {"bench": [51, 10, 14]}, "tourism": {"*": [1212, 0, 1]}, "surface": {"*": [1212, 0, 1]}, "tracktype": {"*": [921, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2591, 0, 2]}}]
