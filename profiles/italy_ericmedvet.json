@@ -1,1 +1,1 @@
-[{"Ways": [3778, -25, 1], "Nodes": [3306, -23, 26]}, {}]
+[{"Ways": [3807, -29, 1], "Nodes": [3324, -18, 26]}, {"width": {"*": [659, 0, 1]}, "maxspeed": {"*": [730, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3088, 0, 1]}, "surface": {"*": [1227, 0, 1]}}]
