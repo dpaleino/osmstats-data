@@ -1,1 +1,1 @@
-[{"Ways": [3720, -30, 1], "Nodes": [2582, -17, 85], "Relations": [519, -8, 1]}, {"amenity": {"place_of_worship": [1010, -12, 1]}, "route": {"road": [130, 1, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3006, -33, 1]}}]
+[{"Nodes": [2599, -17, 85]}, {"amenity": {"place_of_worship": [1009, 1, 1]}}]
