@@ -1,1 +1,1 @@
-[{"Nodes": [3760, -25, 14]}, {}]
+[{"Ways": [3596, 0, 2], "Nodes": [3737, 23, 15]}, {"addr:housenumber": {"*": [440, 0, 1]}, "amenity": {"restaurant": [856, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2871, 0, 2]}}]
