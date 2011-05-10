@@ -1,1 +1,1 @@
-[{"Nodes": [3469, -33, 22]}, {"amenity": {"post_box": [318, -3, 1], "restaurant": [495, -2, 3], "cafe": [342, -2, 2], "telephone": [197, -4, 1], "parking": [638, -5, 5]}, "tourism": {"*": [683, -3, 3]}, "railway": {"*": [758, -3, 1]}, "highway": {"bus_stop": [346, 0, 3]}}]
+[{"Nodes": [3483, -14, 22]}, {"amenity": {"post_box": [317, 1, 1], "restaurant": [494, 1, 3], "cafe": [342, 0, 2], "telephone": [197, 0, 1], "parking": [642, -4, 5]}, "tourism": {"*": [684, -1, 3]}, "railway": {"*": [761, -3, 1]}, "highway": {"bus_stop": [345, 1, 3]}}]
