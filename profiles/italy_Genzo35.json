@@ -1,1 +1,1 @@
-[{"Nodes": [4657, 0, 4]}, {"addr:housenumber": {"*": [290, 0, 1]}, "amenity": {"post_office": [307, 0, 1]}, "highway": {"bus_stop": [413, 0, 2]}}]
+[{"Nodes": [4664, -7, 4]}, {"addr:housenumber": {"*": [291, -1, 1]}, "amenity": {"post_office": [307, 0, 1]}, "highway": {"bus_stop": [415, -2, 2]}}]
