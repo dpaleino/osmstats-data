@@ -1,1 +1,1 @@
-[{"Ways": [1935, -3, 14], "Nodes": [4439, -4, 5], "Relations": [506, -1, 1]}, {"building": {"yes": [662, -34, 4], "*": [675, -35, 4]}, "amenity": {"university": [47, -12, 4]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2993, -12, 1]}}]
+[{"Ways": [1996, -61, 13], "Nodes": [4486, -47, 5], "Relations": [511, -5, 1]}, {"building": {"yes": [676, -14, 4], "*": [688, -13, 4]}, "amenity": {"university": [46, 1, 4]}}]

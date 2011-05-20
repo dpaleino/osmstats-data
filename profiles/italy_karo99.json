@@ -1,1 +1,1 @@
-[{"Nodes": [4922, -7, 2]}, {"addr:housenumber": {"*": [247, -1, 2]}, "amenity": {"cafe": [567, -3, 1], "restaurant": [1064, -4, 1]}}]
+[{"Ways": [4009, 0, 1], "Nodes": [4606, 316, 4]}, {"addr:housenumber": {"*": [252, -5, 2]}, "amenity": {"restaurant": [471, 593, 3]}, "maxspeed": {"*": [639, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3246, 0, 1]}}]

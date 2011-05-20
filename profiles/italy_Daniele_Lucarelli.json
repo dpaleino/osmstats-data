@@ -1,0 +1,1 @@
+[{"Ways": [4412, 0, 1], "Nodes": [3827, 0, 14], "Relations": [561, 0, 1]}, {"shop": {"*": [930, 0, 1]}, "amenity": {"place_of_worship": [619, 0, 2], "school": [678, 0, 1], "telephone": [143, 0, 1], "pharmacy": [503, 0, 1], "parking": [1143, 0, 2], "cafe": [443, 0, 1]}, "leisure": {"park": [323, 0, 2]}, "highway": {"bus_stop": [266, 0, 4]}}]
