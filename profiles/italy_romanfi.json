@@ -1,1 +1,1 @@
-[{"Ways": [2193, -19, 10], "Nodes": [2622, -25, 87]}, {"amenity": {"restaurant": [646, -11, 2], "bench": [89, -2, 7]}, "tracktype": {"*": [1048, -1, 1]}, "leisure": {"playground": [435, -13, 1]}, "highway": {"path": [725, 4, 4], "footway": [675, -1, 4]}}]
+[{"Ways": [2208, -15, 10], "Nodes": [2634, -12, 87]}, {"amenity": {"restaurant": [648, -2, 2], "bench": [89, 0, 7]}, "leisure": {"playground": [445, -10, 1]}, "highway": {"path": [816, -91, 3], "footway": [683, -8, 4]}}]
