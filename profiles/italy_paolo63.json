@@ -1,1 +1,1 @@
-[{"Nodes": [4023, 0, 11]}, {"shop": {"*": [804, 0, 1]}, "addr:housenumber": {"*": [300, 0, 1]}, "amenity": {"restaurant": [343, 0, 4], "parking": [1208, 0, 1]}}]
+[{"Nodes": [4051, -28, 11]}, {"shop": {"*": [803, 1, 1]}, "addr:housenumber": {"*": [305, -5, 1]}, "amenity": {"restaurant": [344, -1, 4], "parking": [1214, -6, 1]}}]

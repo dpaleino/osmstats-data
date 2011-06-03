@@ -1,1 +1,1 @@
-[{"Nodes": [5859, -27, 1]}, {}]
+[{"Ways": [1361, 0, 40], "Nodes": [2831, 3028, 66]}, {"amenity": {"hospital": [420, 0, 1]}, "landuse": {"residential": [285, 0, 3], "*": [699, 0, 3]}, "leisure": {"playground": [427, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1068, 0, 36]}}]
