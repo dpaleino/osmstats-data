@@ -1,1 +1,1 @@
-[{"Nodes": [2221, -12, 162]}, {}]
+[{"Ways": [2075, 0, 13], "Nodes": [2068, 153, 206]}, {"waterway": {"*": [659, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2229, 0, 5]}, "surface": {"*": [1434, 0, 1]}}]

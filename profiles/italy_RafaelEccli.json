@@ -1,1 +1,1 @@
-[{"Nodes": [4121, -3243, 10]}, {"addr:housenumber": {"*": [395, -8, 1]}, "amenity": {"school": [463, -4, 2], "telephone": [265, -1, 1]}, "power": {"tower": [151, -1, 1]}, "historic": {"*": [420, -6, 2]}, "place": {"*": [1052, -1, 1], "village": [715, -8, 1]}, "tourism": {"*": [1329, -1, 1]}, "highway": {"bus_stop": [651, -6, 1]}}]
+[{"Nodes": [4827, -706, 4]}, {"addr:housenumber": {"*": [403, -8, 1]}, "place": {"*": [1057, -5, 1], "village": [719, -4, 1]}, "amenity": {"school": [467, -4, 2]}, "tourism": {"*": [1342, -13, 1]}}]
