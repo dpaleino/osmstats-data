@@ -1,1 +1,1 @@
-[{"Ways": [2721, -34, 5], "Nodes": [2251, -14, 158]}, {"building": {"yes": [930, -8, 1], "*": [947, -8, 1]}, "route": {"hiking": [127, 3, 1]}, "tracktype": {"*": [898, -8, 1]}}]
+[{"Ways": [2762, -41, 5], "Nodes": [2283, -32, 158]}, {"building": {"yes": [951, -21, 1], "*": [967, -20, 1]}, "route": {"hiking": [134, -7, 1]}, "tracktype": {"*": [905, -7, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3116, 0, 1]}}]
