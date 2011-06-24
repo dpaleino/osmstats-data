@@ -1,1 +1,1 @@
-[{"Ways": [3625, 116, 2], "Nodes": [5059, -61, 3]}, {"tunnel": {"*": [806, -8, 1]}, "bridge": {"*": [959, 38, 1]}, "amenity": {"cafe": [680, -7, 1]}, "maxspeed": {"*": [791, -11, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3022, -42, 2]}}]
+[{"Nodes": [5418, -359, 2]}, {"amenity": {"cafe": [680, 0, 1]}}]

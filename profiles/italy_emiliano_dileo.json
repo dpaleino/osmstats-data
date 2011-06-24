@@ -1,1 +1,1 @@
-[{"Nodes": [5232, -64, 2]}, {"amenity": {"bar": [469, -9, 1], "restaurant": [1058, -8, 1]}}]
+[{"Ways": [4243, 0, 1], "Nodes": [5281, -49, 2]}, {"amenity": {"bar": [480, -11, 1], "restaurant": [1071, -13, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3450, 0, 1]}}]

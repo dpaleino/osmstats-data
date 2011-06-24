@@ -1,1 +1,1 @@
-[{"Ways": [4613, 0, 1]}, {}]
+[{"Ways": [1990, 2623, 16], "Nodes": [1676, 0, 401]}, {"amenity": {"drinking_water": [284, 0, 3]}, "tracktype": {"*": [989, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2488, 0, 4], "cycleway": [468, 0, 1]}, "surface": {"*": [938, 0, 4]}}]
