@@ -1,1 +1,1 @@
-[{"Ways": [1731, -14, 23], "Nodes": [2422, -15, 135]}, {"highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1751, -14, 10]}}]
+[{"Ways": [1751, -20, 23], "Nodes": [2437, -15, 135]}, {"waterway": {"*": [811, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1764, -13, 10]}}]

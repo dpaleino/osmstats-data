@@ -1,1 +1,1 @@
-[{"Relations": [551, 0, 1]}, {"route": {"road": [130, 0, 1]}}]
+[{"Ways": [2976, 0, 4], "Relations": [563, -12, 1]}, {"route": {"bicycle": [56, 0, 1]}, "maxspeed": {"*": [528, 0, 2]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2365, 0, 4]}}]
