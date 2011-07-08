@@ -1,1 +1,1 @@
-[{"Ways": [4788, -29, 1]}, {"waterway": {"*": [796, -8, 1], "river": [267, -6, 1]}}]
+[{"Ways": [2191, 2597, 13], "Nodes": [3033, 0, 62]}, {"waterway": {"*": [805, -9, 1], "river": [282, -15, 1]}, "tracktype": {"*": [1127, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1977, 0, 8], "cycleway": [351, 0, 2]}}]
