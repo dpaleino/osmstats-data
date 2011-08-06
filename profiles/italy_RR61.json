@@ -1,1 +1,1 @@
-[{"Nodes": [6289, -55, 1]}, {}]
+[{"Ways": [1937, -20, 21], "Nodes": [2862, -60, 94]}, {"building": {"yes": [897, -15, 3], "*": [909, -16, 3]}, "bridge": {"*": [951, -12, 1]}, "leisure": {"park": [457, -5, 1]}, "surface": {"*": [1658, -16, 1]}, "landuse": {"*": [1284, -311, 1]}, "tourism": {"*": [1104, -14, 2]}, "highway": {"steps": [288, -2, 4], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1969, -100, 9], "footway": [956, -4, 2]}}]

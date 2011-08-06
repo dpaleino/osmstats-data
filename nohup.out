@@ -1,0 +1,45 @@
++ set -e
++ DUMP=italy.osm.bz2
+++ awk '{print $4}'
+++ grep 'italy.osm.bz2 '
+++ lynx -dump http://download.geofabrik.de/osm/europe/
++ verbose_date=05-Aug-2011
+++ date -d 05-Aug-2011 +%Y%m%d
++ clean_date=20110805
++ LOGFILE=/home/david/osmstats-logs/20110805.log
++ tee /home/david/osmstats-logs/20110805.log
+++ date -R
++ echo Start: Sat, 06 Aug 2011 13:41:59 +0200
+Start: Sat, 06 Aug 2011 13:41:59 +0200
++ DUMP=http://download.geofabrik.de/osm/europe/italy.osm.bz2
++ OUTPUT=italy_20110805.osm.bz2
++ OUTDIR=/home/david/osm-dumps
++ SRVDIR=/srv/osmstats/
++ STATSDIR=/var/lib/gitolite/repositories/osmstats.git
++ JSONDIR=/var/lib/gitolite/repositories/osmstats-data.git
++ cd /home/david/osm-dumps
++ '[' -e italy_20110805.osm.bz2 ']'
++ '[' -e italy_20110805.osm ']'
++ cd /srv/osmstats/
++ tee -a /home/david/osmstats-logs/20110805.log
++ ./fast_stats.py -d 20110805 /home/david/osm-dumps/italy_20110805.osm
+2011-08-06 13:42:06,547 - stats - INFO - Parsing /home/david/osm-dumps/italy_20110805.osm
+2011-08-06 14:05:35,598 - stats - INFO - Calculating positions
+2011-08-06 14:06:05,050 - stats - INFO - Saving to JSON
+2011-08-06 14:06:06,413 - stats - INFO - Saving tags and users lists
+2011-08-06 14:06:07,795 - stats - INFO - Rendering HTML
+2011-08-06 14:06:07,795 - stats - INFO - Sorting users
+2011-08-06 14:06:12,877 - stats - INFO - Program ended.
+++ ps waux
+++ grep -v grep
+++ awk '{print $2}'
+++ grep graphdaemon.py
++ pid=
++ '[' -z '' ']'
++ rm -rf 'graphs/cached/*'
++ tee -a /home/david/osmstats-logs/20110805.log
++ ./graphdaemon.py
++ cd json
++ export GIT_DIR=/var/lib/gitolite/repositories/osmstats-data.git
++ GIT_DIR=/var/lib/gitolite/repositories/osmstats-data.git
++ git add .
