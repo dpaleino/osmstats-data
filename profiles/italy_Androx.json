@@ -1,1 +1,1 @@
-[{"Nodes": [4496, -70, 10]}, {"amenity": {"hospital": [394, -1, 1], "pharmacy": [766, -6, 1], "school": [367, -3, 3], "parking": [1902, -32, 1]}, "tourism": {"*": [1155, -13, 2]}, "highway": {"bus_stop": [794, -10, 1]}}]
+[{"Nodes": [4531, -35, 10]}, {"amenity": {"hospital": [401, -7, 1], "school": [369, -2, 3], "pharmacy": [772, -6, 1]}, "tourism": {"*": [1174, -19, 2]}, "highway": {"bus_stop": [800, -6, 1]}}]

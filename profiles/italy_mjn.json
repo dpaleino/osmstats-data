@@ -1,1 +1,1 @@
-[{"Ways": [3596, -39, 3], "Nodes": [4630, -73, 8]}, {"amenity": {"restaurant": [742, -9, 2]}, "maxspeed": {"*": [717, -10, 1]}, "highway": {"steps": [565, -9, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3972, -40, 1], "footway": [1338, -8, 1]}}]
+[{"Ways": [4086, -490, 2], "Nodes": [5597, -967, 2]}, {"amenity": {"restaurant": [754, -12, 2]}, "highway": {"steps": [568, -3, 1], "footway": [1354, -16, 1]}}]
