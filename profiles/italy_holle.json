@@ -1,1 +1,1 @@
-[{"Ways": [2068, -16, 17], "Nodes": [786, -10, 2450]}, {"highway": {"path": [460, -6, 12], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3046, 0, 2]}, "ele": {"*": [771, -12, 1]}}]
+[{"Ways": [2093, -25, 17], "Nodes": [793, -7, 2450]}, {"tracktype": {"*": [1291, 0, 1]}, "highway": {"path": [466, -6, 12]}, "ele": {"*": [785, -14, 1]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [6667, -58, 1]}, {"tourism": {"*": [1937, -29, 1]}}]
+[{"Ways": [2611, 0, 9], "Nodes": [5569, 1098, 3]}, {"building": {"yes": [1419, 0, 1], "*": [1443, 0, 1]}, "amenity": {"cafe": [695, 0, 1]}, "maxspeed": {"*": [369, 0, 6]}, "wheelchair": {"*": [226, 0, 1]}, "height": {"*": [143, 0, 1]}, "tourism": {"*": [1953, -16, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2102, 0, 8]}}]

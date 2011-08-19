@@ -1,1 +1,1 @@
-[{"Ways": [3019, -23, 5], "Nodes": [3681, -27, 31]}, {"amenity": {"hospital": [345, -3, 1], "parking": [1081, 2, 2]}, "highway": {"bus_stop": [607, -5, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3455, -12, 1]}}]
+[{"Ways": [3044, -25, 5], "Nodes": [3714, -33, 31]}, {"amenity": {"hospital": [349, -4, 1], "parking": [1091, -10, 2]}, "highway": {"bus_stop": [615, -8, 1]}}]
