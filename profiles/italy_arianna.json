@@ -1,1 +1,1 @@
-[{"Nodes": [5059, -52, 5], "Relations": [883, -16, 1]}, {"addr:housenumber": {"*": [627, -7, 1]}, "amenity": {"bar": [356, -3, 2]}, "tourism": {"*": [1619, -17, 1]}, "boundary": {"*": [978, -19, 1]}, "leisure": {"playground": [553, -8, 1]}}]
+[{"Nodes": [5102, -43, 5], "Relations": [884, -1, 1]}, {"addr:housenumber": {"*": [636, -9, 1]}, "amenity": {"bar": [357, -1, 2]}, "tourism": {"*": [1643, -24, 1]}, "boundary": {"*": [976, 2, 1]}, "leisure": {"playground": [566, -13, 1]}}]

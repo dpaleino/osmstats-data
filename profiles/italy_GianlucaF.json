@@ -1,1 +1,1 @@
-[{"Ways": [4518, -53, 1], "Nodes": [3359, -33, 51]}, {"amenity": {"drinking_water": [630, -10, 1], "post_office": [529, -8, 1], "pharmacy": [730, -2, 1]}}]
+[{"Ways": [4555, -37, 1], "Nodes": [3391, -32, 51]}, {"amenity": {"drinking_water": [639, -9, 1], "post_office": [530, -1, 1], "pharmacy": [737, -7, 1]}, "maxspeed": {"*": [824, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3417, 0, 1]}}]
