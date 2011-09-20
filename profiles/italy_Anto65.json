@@ -1,0 +1,1 @@
+[{"Ways": [3431, 0, 4], "Nodes": [4719, 0, 10]}, {"shop": {"*": [1285, 0, 1]}, "addr:housenumber": {"*": [388, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3299, 0, 2], "footway": [1283, 0, 1]}}]
