@@ -1,1 +1,1 @@
-[{"Ways": [4764, 0, 1], "Nodes": [6733, 0, 1]}, {"addr:housenumber": {"*": [562, 0, 1]}, "building": {"yes": [1302, 0, 1], "*": [1323, 0, 1]}}]
+[{"Ways": [4770, -6, 1], "Nodes": [6740, -7, 1]}, {"addr:housenumber": {"*": [566, -4, 1]}, "building": {"yes": [1309, -7, 1], "*": [1330, -7, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4163, 0, 1]}}]
