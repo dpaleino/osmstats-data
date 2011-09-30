@@ -1,1 +1,1 @@
-[{"Ways": [4479, -3, 1], "Nodes": [4351, -6, 17]}, {"amenity": {"place_of_worship": [921, -2, 1], "school": [967, -2, 1], "parking": [1284, 2, 2]}, "highway": {"bus_stop": [355, 0, 3]}}]
+[{"Ways": [4479, 0, 1], "Nodes": [4356, -5, 17]}, {"amenity": {"place_of_worship": [921, 0, 1], "school": [963, 4, 1], "parking": [1282, 2, 2]}, "highway": {"bus_stop": [359, -4, 3]}}]

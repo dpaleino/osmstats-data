@@ -1,1 +1,1 @@
-[{"Ways": [4345, -4, 2], "Nodes": [3118, -5, 84], "Relations": [763, -1, 1]}, {"amenity": {"bench": [147, -2, 4], "parking": [1975, -3, 1]}, "tourism": {"*": [2028, -8, 1]}, "route": {"hiking": [161, 3, 1]}, "highway": {"path": [1192, 4, 2]}}]
+[{"Ways": [4353, -8, 2], "Nodes": [3123, -5, 84], "Relations": [766, -3, 1]}, {"amenity": {"bench": [146, 1, 4], "parking": [1969, 6, 1]}, "tourism": {"*": [2035, -7, 1]}, "route": {"hiking": [163, -2, 1]}, "highway": {"path": [1197, -5, 2]}}]

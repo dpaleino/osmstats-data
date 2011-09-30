@@ -1,1 +1,1 @@
-[{"Ways": [3612, -5, 3], "Nodes": [4255, -5, 19], "Relations": [386, -6, 4]}, {"bridge": {"*": [943, -5, 2]}, "amenity": {"fuel": [866, -1, 1]}, "route": {"road": [89, 0, 1]}, "boundary": {"*": [501, -13, 2]}, "highway": {"footway": [914, -3, 2]}}]
+[{"Ways": [3620, -8, 3], "Nodes": [4258, -3, 19], "Relations": [391, -5, 4]}, {"bridge": {"*": [940, 3, 2]}, "amenity": {"fuel": [866, 0, 1]}, "boundary": {"*": [499, 2, 2]}, "highway": {"footway": [918, -4, 2]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [4284, -5, 19]}, {"addr:housenumber": {"*": [436, 0, 1]}, "amenity": {"drinking_water": [238, 0, 5], "post_office": [357, -1, 1], "telephone": [299, -1, 1], "school": [453, -3, 2]}, "tourism": {"*": [709, 2, 4]}}]
+[{"Nodes": [4286, -2, 19]}, {"addr:housenumber": {"*": [439, -3, 1]}, "amenity": {"drinking_water": [244, -6, 5], "post_office": [360, -3, 1], "telephone": [185, 114, 1], "school": [448, 5, 2]}, "tourism": {"*": [710, -1, 4]}}]
