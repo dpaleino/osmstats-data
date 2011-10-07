@@ -1,1 +1,1 @@
-[{"Ways": [4542, 0, 1], "Nodes": [5788, -19, 3]}, {"amenity": {"restaurant": [926, 0, 1]}, "wheelchair": {"*": [208, -11, 1]}, "barrier": {"*": [887, -4, 1]}}]
+[{"Ways": [4573, -31, 1], "Nodes": [5824, -36, 3]}, {"wheelchair": {"*": [214, -6, 1]}, "amenity": {"restaurant": [936, -10, 1]}, "barrier": {"*": [904, -17, 1]}, "highway": {"footway": [1140, 0, 1]}}]

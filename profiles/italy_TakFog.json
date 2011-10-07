@@ -1,1 +1,1 @@
-[{"Nodes": [4294, -3, 18]}, {"amenity": {"drinking_water": [119, -2, 15], "restaurant": [1266, -3, 1], "pub": [313, -4, 1], "pharmacy": [714, 1, 1]}}]
+[{"Nodes": [4326, -32, 18]}, {"amenity": {"drinking_water": [119, 0, 15], "restaurant": [1282, -16, 1], "pub": [317, -4, 1], "pharmacy": [721, -7, 1]}}]
