@@ -1,0 +1,1 @@
+[{"Ways": [3045, 0, 6], "Nodes": [3534, 0, 53]}, {"addr:housenumber": {"*": [362, 0, 2]}, "building": {"yes": [897, 0, 4], "*": [914, 0, 4]}, "amenity": {"restaurant": [973, 0, 1]}, "leisure": {"playground": [550, 0, 1]}, "tourism": {"*": [991, 0, 2]}, "highway": {"bus_stop": [849, 0, 1]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [4763, -35, 10]}, {"shop": {"*": [547, -2, 3]}, "addr:housenumber": {"*": [174, 0, 8]}, "amenity": {"fuel": [636, -2, 1], "cafe": [657, -6, 1], "restaurant": [473, -3, 3]}, "tourism": {"*": [1343, -8, 1]}, "opening_hours": {"*": [157, 0, 1]}}]
+[{"Nodes": [4790, -27, 10]}, {"shop": {"*": [547, 0, 3]}, "addr:housenumber": {"*": [175, -1, 8]}, "amenity": {"fuel": [639, -3, 1], "cafe": [654, 3, 1], "restaurant": [476, -3, 3]}, "tourism": {"*": [1344, -1, 1]}, "opening_hours": {"*": [158, -1, 1]}}]
