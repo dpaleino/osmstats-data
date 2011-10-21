@@ -1,1 +1,1 @@
-[{"Ways": [4537, -38, 1], "Nodes": [7126, -48, 1]}, {"addr:housenumber": {"*": [626, -9, 1]}, "amenity": {"pharmacy": [527, 4, 1]}}]
+[{"Ways": [4576, -39, 1], "Nodes": [7169, -43, 1]}, {"addr:housenumber": {"*": [631, -5, 1]}, "amenity": {"pharmacy": [528, -1, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3655, 0, 1]}}]

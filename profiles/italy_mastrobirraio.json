@@ -1,1 +1,1 @@
-[{"Ways": [5231, -37, 1]}, {}]
+[{"Ways": [4425, 806, 2], "Nodes": [4234, 0, 22], "Relations": [812, 0, 1]}, {"amenity": {"drinking_water": [456, 0, 2]}, "sac_scale": {"*": [794, 0, 1]}, "route": {"hiking": [198, 0, 1]}, "mtb:scale:*": {"*": [591, 0, 1]}, "surface": {"*": [1880, 0, 1]}, "highway": {"footway": [1446, 0, 1]}}]
