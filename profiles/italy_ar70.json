@@ -1,1 +1,1 @@
-[{"Ways": [2876, -313, 8], "Nodes": [4757, -246, 11]}, {"bridge": {"*": [1278, -9, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4211, -22, 1], "cycleway": [214, -39, 7]}, "surface": {"*": [846, -121, 7]}}]
+[{"Ways": [2841, 35, 8], "Nodes": [4785, -28, 11]}, {"bridge": {"*": [1281, -3, 1]}, "highway": {"cycleway": [209, 5, 7]}, "surface": {"*": [857, -11, 7]}}]

@@ -1,1 +1,1 @@
-[{"Ways": [2546, -20, 11], "Nodes": [2301, -14, 240]}, {"sac_scale": {"*": [441, -82, 4]}, "amenity": {"restaurant": [877, -3, 1]}, "tourism": {"*": [943, -2, 2]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3157, -20, 2], "footway": [703, -116, 4]}}]
+[{"Ways": [2791, -245, 9], "Nodes": [2326, -25, 239]}, {"sac_scale": {"*": [365, 76, 6]}, "tourism": {"*": [1332, -389, 1]}, "highway": {"footway": [591, 112, 6]}}]

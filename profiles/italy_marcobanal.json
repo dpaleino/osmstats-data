@@ -1,1 +1,1 @@
-[{"Ways": [5444, -34, 1], "Nodes": [4640, -30, 14]}, {"shop": {"*": [1619, -14, 1]}, "amenity": {"place_of_worship": [1450, -13, 1], "post_office": [684, -4, 1], "restaurant": [1524, -9, 1], "school": [634, -5, 2], "parking": [1095, 0, 3]}, "highway": {"bus_stop": [907, -2, 1]}}]
+[{"Ways": [5493, -49, 1], "Nodes": [4665, -25, 14]}, {"shop": {"*": [1632, -13, 1]}, "amenity": {"place_of_worship": [1472, -22, 1], "post_office": [692, -8, 1], "restaurant": [1537, -13, 1], "school": [635, -1, 2], "parking": [1100, -5, 3]}, "highway": {"bus_stop": [914, -7, 1]}}]
