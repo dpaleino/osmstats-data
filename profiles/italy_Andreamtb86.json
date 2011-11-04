@@ -1,1 +1,1 @@
-[{"Ways": [4368, 5, 2], "Nodes": [2856, -17, 124]}, {"tourism": {"*": [2006, -6, 1]}, "highway": {"path": [1539, -18, 1]}}]
+[{"Ways": [3035, 1333, 7], "Nodes": [2452, 404, 209]}, {"tracktype": {"*": [1355, 0, 1]}, "maxspeed": {"*": [959, 0, 1]}, "tourism": {"*": [2025, -19, 1]}, "highway": {"path": [1237, 302, 2], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3489, 0, 2], "cycleway": [467, 0, 1]}, "surface": {"*": [1910, 0, 1]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [5760, -34, 3]}, {"tourism": {"*": [1776, -4, 1]}, "highway": {"bus_stop": [437, -4, 2]}}]
+[{"Ways": [4674, 0, 1], "Nodes": [5800, -40, 3]}, {"tourism": {"*": [1791, -15, 1]}, "highway": {"bus_stop": [442, -5, 2], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3719, 0, 1]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [2173, -17, 291]}, {}]
+[{"Ways": [4956, 0, 1], "Nodes": [2175, -2, 294]}, {"tourism": {"*": [1721, 0, 1]}, "barrier": {"*": [780, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3632, 0, 1]}}]

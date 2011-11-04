@@ -1,1 +1,1 @@
-[{"Ways": [5403, -672, 1], "Nodes": [5404, -34, 5], "Relations": [468, 0, 3]}, {"tactile_paving": {"*": [37, 0, 4]}, "route": {"bus": [42, 0, 3]}, "highway": {"bus_stop": [307, -4, 4]}}]
+[{"Ways": [5427, -24, 1], "Nodes": [5435, -31, 5], "Relations": [474, -6, 3]}, {"building": {"yes": [1449, 0, 1], "*": [1470, 0, 1]}, "tactile_paving": {"*": [37, 0, 4]}, "route": {"bus": [47, -5, 3]}, "highway": {"bus_stop": [308, -1, 4]}, "height": {"*": [167, 0, 1]}}]
