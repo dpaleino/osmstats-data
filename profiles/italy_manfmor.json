@@ -1,1 +1,1 @@
-[{"Ways": [3571, 1594, 4], "Nodes": [4042, 1164, 31]}, {"landuse": {"residential": [469, 0, 1], "*": [1321, 0, 1]}, "amenity": {"drinking_water": [413, -4, 2]}, "historic": {"*": [689, 0, 1]}, "tourism": {"*": [1606, -14, 1]}, "highway": {"path": [1468, 0, 1], "steps": [640, -9, 1]}}]
+[{"Ways": [3580, -9, 4], "Nodes": [4057, -15, 31]}, {"landuse": {"residential": [471, -2, 1], "*": [1333, -12, 1]}, "amenity": {"drinking_water": [414, -1, 2]}, "historic": {"*": [691, -2, 1]}, "tourism": {"*": [1604, 2, 1]}, "highway": {"path": [1492, -24, 1], "steps": [642, -2, 1]}}]

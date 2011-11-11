@@ -1,1 +1,1 @@
-[{"Ways": [3796, -22, 3], "Nodes": [2121, -14, 317]}, {"amenity": {"shelter": [102, -1, 2]}, "highway": {"path": [1120, -10, 2]}}]
+[{"Ways": [3802, -6, 3], "Nodes": [2131, -10, 317]}, {"amenity": {"shelter": [102, 0, 2]}, "highway": {"path": [1127, -7, 2], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3841, 0, 1]}}]

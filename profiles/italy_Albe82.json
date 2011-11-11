@@ -1,1 +1,1 @@
-[{"Ways": [4760, -22, 1], "Nodes": [4820, -32, 11]}, {"addr:housenumber": {"*": [578, -4, 1]}, "building": {"yes": [1610, -20, 1], "*": [1639, -20, 1]}, "amenity": {"drinking_water": [359, -2, 3]}}]
+[{"Ways": [4778, -18, 1], "Nodes": [4842, -22, 11]}, {"addr:housenumber": {"*": [581, -3, 1]}, "building": {"yes": [1617, -7, 1], "*": [1646, -7, 1]}, "amenity": {"drinking_water": [359, 0, 3]}}]

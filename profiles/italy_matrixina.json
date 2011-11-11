@@ -1,1 +1,1 @@
-[{"Ways": [5390, -25, 1], "Nodes": [5984, -41, 3]}, {"opening_hours": {"*": [179, -4, 1]}, "tourism": {"*": [1672, -14, 1]}}]
+[{"Ways": [5407, -17, 1], "Nodes": [6007, -23, 3]}, {"opening_hours": {"*": [181, -2, 1]}, "tourism": {"*": [1671, 1, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4338, 0, 1]}}]
