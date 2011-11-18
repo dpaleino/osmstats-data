@@ -1,1 +1,1 @@
-[{"Ways": [5073, -20, 1], "Nodes": [5694, -18, 4], "Relations": [652, -2, 1]}, {"lit": {"*": [213, 0, 1]}, "route": {"bus": [76, -2, 1]}, "maxspeed": {"*": [741, -1, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3654, -7, 1]}, "surface": {"*": [1539, -9, 1]}}]
+[{"Ways": [5081, -8, 1], "Nodes": [5714, -20, 4], "Relations": [653, -1, 1]}, {"route": {"bus": [81, -5, 1]}}]
