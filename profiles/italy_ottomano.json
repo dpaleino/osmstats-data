@@ -1,1 +1,1 @@
-[{"Nodes": [4728, -16, 14]}, {}]
+[{"Ways": [1354, 0, 65], "Nodes": [2977, 1751, 115], "Relations": [957, 0, 1]}, {"railway": {"*": [749, 0, 1]}, "amenity": {"place_of_worship": [1336, 0, 1], "post_office": [286, 0, 2], "hospital": [199, 0, 2]}, "maxspeed": {"*": [1003, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [962, 0, 62]}, "surface": {"*": [1758, 0, 1]}}]

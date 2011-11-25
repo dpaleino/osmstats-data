@@ -1,1 +1,1 @@
-[{"Ways": [3728, 361, 3], "Nodes": [4340, 1759, 21]}, {"tracktype": {"*": [997, 253, 2]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4504, -14, 1]}}]
+[{"Ways": [2988, 740, 7], "Nodes": [3130, 1210, 97]}, {"tracktype": {"*": [769, 228, 4]}, "mtb:scale:*": {"*": [401, 0, 3]}, "surface": {"*": [1246, 0, 3]}}]

@@ -1,1 +1,1 @@
-[{"Ways": [3303, -11, 5], "Nodes": [5472, -20, 5]}, {"amenity": {"hospital": [283, 1, 1]}, "maxspeed": {"*": [900, 0, 1]}, "power": {"generator": [24, 0, 2]}, "surface": {"*": [1566, -1, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2522, 6, 5]}}]
+[{"Nodes": [5910, -438, 3]}, {"amenity": {"hospital": [282, 1, 1]}, "power": {"generator": [44, -20, 1]}}]
