@@ -1,1 +1,1 @@
-[{"Ways": [5348, -36, 1], "Nodes": [6030, -36, 3]}, {"sac_scale": {"*": [850, 1, 1]}, "amenity": {"drinking_water": [635, -2, 1]}, "route": {"hiking": [229, 3, 1]}, "highway": {"path": [1336, -1, 1]}, "width": {"*": [683, 7, 1]}}]
+[{"Ways": [5393, -45, 1], "Nodes": [6083, -53, 3]}, {"sac_scale": {"*": [857, -7, 1]}, "amenity": {"drinking_water": [640, -5, 1]}, "route": {"hiking": [234, -5, 1]}, "highway": {"path": [1351, -15, 1]}, "width": {"*": [680, 3, 1]}}]

@@ -1,1 +1,1 @@
-[{"Ways": [4953, -34, 1], "Nodes": [6264, -40, 2]}, {"shop": {"*": [1299, -13, 1]}, "addr:housenumber": {"*": [661, -3, 1]}, "tourism": {"*": [1747, -8, 1]}}]
+[{"Ways": [4999, -46, 1], "Nodes": [6315, -51, 2]}, {"shop": {"*": [1306, -7, 1]}, "addr:housenumber": {"*": [666, -5, 1]}, "tourism": {"*": [1760, -13, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4112, 0, 1]}, "surface": {"*": [1787, 0, 1]}}]

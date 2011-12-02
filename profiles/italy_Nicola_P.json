@@ -1,1 +1,1 @@
-[{"Ways": [3531, -21, 4], "Nodes": [1868, -3, 442]}, {"shop": {"*": [1122, -11, 1]}, "boundary": {"*": [873, 0, 1]}, "power": {"generator": [51, -4, 1]}}]
+[{"Ways": [3561, -30, 4], "Nodes": [1883, -15, 442]}, {"shop": {"*": [1128, -6, 1]}, "boundary": {"*": [909, -36, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3885, 0, 1]}, "power": {"generator": [52, -1, 1]}}]
