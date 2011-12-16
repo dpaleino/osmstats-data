@@ -1,1 +1,1 @@
-[{"Ways": [2687, -10, 11], "Nodes": [2348, -7, 247]}, {"tracktype": {"*": [643, -4, 7]}, "amenity": {"place_of_worship": [1114, -1, 1]}, "tourism": {"*": [1638, -7, 1]}, "leisure": {"playground": [434, -7, 1]}}]
+[{"Ways": [2702, -15, 11], "Nodes": [2360, -12, 247]}, {"amenity": {"place_of_worship": [1114, 0, 1]}, "tracktype": {"*": [684, -41, 6]}, "sac_scale": {"*": [826, 0, 1]}, "leisure": {"playground": [435, -1, 1]}, "tourism": {"*": [1639, -1, 1]}, "highway": {"path": [1434, 0, 1]}}]
