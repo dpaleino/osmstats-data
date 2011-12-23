@@ -1,1 +1,1 @@
-[{"Ways": [5632, -39, 1], "Relations": [749, -7, 1]}, {"route": {"bus": [89, -6, 1]}}]
+[{"Ways": [5667, -35, 1], "Relations": [757, -8, 1]}, {"route": {"bus": [70, 19, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4292, 0, 1]}, "surface": {"*": [1882, 0, 1]}}]
