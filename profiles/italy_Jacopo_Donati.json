@@ -1,0 +1,1 @@
+[{"Ways": [4425, 0, 5], "Nodes": [6494, 0, 10], "Relations": [1143, 0, 1]}, {"building": {"yes": [1833, 0, 2], "*": [1711, 0, 3], "church": [219, 0, 1]}, "amenity": {"place_of_worship": [1533, 0, 1], "restaurant": [1358, 0, 1]}, "place": {"*": [1578, 0, 1], "isolated_dwelling": [101, 0, 1]}, "leisure": {"pitch": [786, 0, 1]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [6092, -260, 3]}, {"amenity": {"drinking_water": [657, -4, 1], "restaurant": [1378, -12, 1], "parking": [1928, -8, 1]}}]
+[{"Ways": [4489, 0, 5], "Nodes": [3878, 2214, 114], "Relations": [822, 0, 2]}, {"building": {"yes": [2425, 0, 1], "*": [2600, 0, 1]}, "route": {"mtb": [22, 0, 2]}, "amenity": {"restaurant": [1844, -466, 1], "parking": [2414, -486, 1]}, "waterway": {"*": [1155, 0, 1]}}]

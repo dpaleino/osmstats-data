@@ -1,1 +1,1 @@
-[{"Ways": [2274, -52, 18], "Nodes": [706, -26, 3678]}, {"amenity": {"fuel": [300, 0, 4], "parking": [1068, -6, 3]}, "tunnel": {"*": [580, -9, 2]}, "place": {"*": [1339, 5, 1], "village": [771, 4, 1]}, "landuse": {"residential": [544, -8, 1], "*": [1405, -21, 1]}, "tourism": {"*": [1183, 2, 2]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1800, -2, 15]}}]
+[{"Nodes": [2190, -1484, 543]}, {}]

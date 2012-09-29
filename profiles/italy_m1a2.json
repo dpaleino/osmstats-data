@@ -1,0 +1,1 @@
+[{"Ways": [2169, 0, 42], "Nodes": [4097, 0, 96]}, {"shop": {"*": [1882, 0, 1]}, "bridge": {"*": [728, 0, 5]}, "highway": {"crossing": [548, 0, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1487, 0, 41]}, "surface": {"*": [1158, 0, 8]}}]

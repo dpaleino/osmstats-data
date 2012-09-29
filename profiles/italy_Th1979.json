@@ -1,1 +1,1 @@
-[{"Ways": [4295, -32, 2], "Nodes": [4808, -31, 14]}, {"building": {"yes": [1612, -17, 1], "*": [1649, -19, 1]}, "amenity": {"place_of_worship": [1348, -6, 1], "post_office": [716, -10, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4427, -29, 1]}}]
+[{"Ways": [6415, -2120, 1], "Nodes": [6390, -1582, 11]}, {"building": {"yes": [2451, -839, 1], "*": [2630, -981, 1]}, "amenity": {"place_of_worship": [1657, -309, 1]}}]

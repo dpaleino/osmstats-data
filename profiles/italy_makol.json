@@ -1,1 +1,1 @@
-[{"Ways": [4773, -28, 1], "Nodes": [2791, -17, 154]}, {"waterway": {"*": [724, -9, 1]}}]
+[{"Ways": [3501, 1272, 11], "Nodes": [2687, 104, 339]}, {"boundary": {"*": [646, 0, 1]}, "historic": {"*": [867, 0, 1]}, "place": {"*": [780, 0, 3], "village": [395, 0, 3]}, "highway": {"steps": [886, 0, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3488, 0, 4], "footway": [1018, 0, 3]}}]

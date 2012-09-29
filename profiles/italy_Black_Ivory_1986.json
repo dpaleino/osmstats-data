@@ -1,0 +1,1 @@
+[{"Ways": [2345, 0, 35], "Nodes": [2988, 0, 256]}, {"barrier": {"*": [1043, 0, 2]}, "landuse": {"*": [960, 0, 5], "forest": [710, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1784, 0, 28]}, "surface": {"*": [1591, 0, 4]}}]

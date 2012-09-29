@@ -1,1 +1,1 @@
-[{"Ways": [2140, -11, 21], "Nodes": [3346, -26, 82]}, {"leisure": {"park": [507, -5, 1]}, "aeroway": {"*": [116, 0, 2]}, "railway": {"*": [524, 7, 1]}, "landuse": {"*": [1359, -22, 1]}, "waterway": {"*": [522, -4, 2]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1907, -10, 13], "footway": [1373, -9, 1]}}]
+[{"Ways": [6335, -4195, 1], "Nodes": [7193, -3847, 5]}, {"highway": {"footway": [1706, -333, 1]}}]

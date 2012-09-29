@@ -1,1 +1,1 @@
-[{"Ways": [5752, -38, 1]}, {"amenity": {"parking": [2137, -6, 1]}}]
+[{"Ways": [2872, 2880, 21], "Nodes": [4224, 0, 87]}, {"shop": {"*": [2319, 0, 1]}, "maxspeed": {"*": [764, 0, 3]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [2132, 0, 18]}}]

@@ -1,1 +1,1 @@
-[{"Ways": [3906, -31, 3], "Nodes": [2568, -17, 200], "Relations": [845, -3, 1]}, {"route": {"road": [108, 0, 1]}, "amenity": {"fuel": [622, -3, 1]}, "maxspeed": {"*": [816, -30, 1]}, "boundary": {"*": [756, 11, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3709, -23, 2]}}]
+[{"Nodes": [3344, -776, 183]}, {"amenity": {"fuel": [1010, -388, 1]}, "highway": {"traffic_signals": [638, 0, 1]}}]

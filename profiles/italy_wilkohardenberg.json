@@ -1,1 +1,1 @@
-[{"Nodes": [5810, -42, 4]}, {"amenity": {"pub": [421, -4, 1]}}]
+[{"Ways": [4695, 0, 4], "Nodes": [7018, -1208, 6]}, {"addr:housenumber": {"*": [1304, 0, 1]}, "amenity": {"pub": [525, -104, 1]}, "maxspeed": {"*": [1308, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3538, 0, 4]}}]

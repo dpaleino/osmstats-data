@@ -1,1 +1,1 @@
-[{"Ways": [2452, -12, 15], "Nodes": [1180, -11, 1286]}, {"boundary": {"*": [961, 31, 1]}, "mtb:scale:*": {"*": [681, -14, 1]}, "highway": {"path": [1258, 323, 2], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3210, -15, 3]}, "surface": {"*": [1154, 1, 4]}}]
+[{"Ways": [4884, -2432, 4], "Nodes": [1579, -399, 1126]}, {"boundary": {"*": [1033, -72, 1]}, "highway": {"path": [2111, -853, 1]}, "surface": {"*": [2814, -1660, 1]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [2420, -18, 237], "Relations": [588, -5, 2]}, {"amenity": {"fuel": [786, -1, 1], "place_of_worship": [747, 3, 2], "restaurant": [1170, -14, 1]}, "historic": {"*": [550, -1, 2]}, "place": {"*": [424, -2, 7], "village": [194, 3, 7]}, "boundary": {"*": [483, 12, 2]}}]
+[{"Nodes": [3065, -645, 237]}, {"amenity": {"fuel": [1000, -214, 1], "place_of_worship": [942, -195, 2], "restaurant": [1567, -397, 1]}, "historic": {"*": [700, -150, 2]}, "place": {"*": [537, -113, 7], "village": [241, -47, 7]}}]

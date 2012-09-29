@@ -1,1 +1,1 @@
-[{"Ways": [4890, -27, 1], "Nodes": [6033, -40, 3]}, {"amenity": {"university": [152, -2, 1]}, "highway": {"bus_stop": [591, -7, 2]}}]
+[{"Ways": [3873, 1017, 8], "Nodes": [4610, 1423, 59], "Relations": [1230, 0, 1]}, {"addr:housenumber": {"*": [491, 0, 3]}, "amenity": {"university": [46, 106, 5]}, "highway": {"bus_stop": [620, -29, 2], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3846, 0, 3]}}]

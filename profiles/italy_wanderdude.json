@@ -1,0 +1,1 @@
+[{"Ways": [5061, 0, 3], "Nodes": [4173, 0, 90], "Relations": [1251, 0, 1]}, {"route": {"hiking": [222, 0, 1]}, "tourism": {"*": [2718, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4996, 0, 1], "footway": [1355, 0, 2]}}]

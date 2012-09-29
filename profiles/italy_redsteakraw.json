@@ -1,0 +1,1 @@
+[{"Ways": [1605, 0, 83], "Nodes": [2828, 0, 297], "Relations": [705, 0, 2]}, {"bridge": {"*": [1255, 0, 1]}, "railway": {"*": [560, 0, 2]}, "maxspeed": {"*": [514, 0, 5]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1061, 0, 80]}}]

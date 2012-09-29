@@ -1,1 +1,1 @@
-[{"Ways": [1584, -11, 47], "Nodes": [3083, -15, 109]}, {"amenity": {"parking": [1878, -8, 1]}, "maxspeed": {"*": [262, -1, 13]}, "tunnel": {"*": [100, -3, 45]}, "surface": {"*": [953, -4, 6]}, "railway": {"*": [474, 8, 2]}, "highway": {"steps": [683, -6, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [1179, -8, 42], "footway": [1406, -5, 1], "path": [1526, -7, 1]}}]
+[{"Nodes": [4033, -950, 100]}, {}]

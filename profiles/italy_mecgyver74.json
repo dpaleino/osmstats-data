@@ -1,1 +1,1 @@
-[{"Nodes": [6762, -47, 1]}, {"shop": {"*": [1173, -16, 1]}}]
+[{"Ways": [4001, 0, 7], "Nodes": [3516, 3246, 158]}, {"shop": {"*": [1673, -500, 1]}, "amenity": {"post_office": [1067, 0, 1], "school": [1010, 0, 1], "bank": [914, 0, 1]}, "leisure": {"playground": [962, 0, 1]}, "lit": {"*": [504, 0, 1]}, "surface": {"*": [2509, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3073, 0, 6]}}]

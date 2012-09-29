@@ -1,1 +1,1 @@
-[{"Nodes": [2688, -16, 174]}, {}]
+[{"Ways": [2845, 0, 21], "Nodes": [1167, 1521, 2214]}, {"place": {"*": [1005, 0, 2], "hamlet": [562, 0, 2]}, "mtb:scale:*": {"*": [780, 0, 1]}, "highway": {"path": [1906, 0, 1], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [5180, 0, 1]}}]

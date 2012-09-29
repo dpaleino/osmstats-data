@@ -1,1 +1,1 @@
-[{"Nodes": [7136, -51, 1]}, {"addr:housenumber": {"*": [675, -9, 1]}, "amenity": {"restaurant": [1397, -11, 1]}}]
+[{"Ways": [6742, 0, 1], "Nodes": [7851, -715, 3], "Relations": [1219, 0, 1]}, {"addr:housenumber": {"*": [519, 156, 3]}, "building": {"yes": [1880, 0, 2], "*": [2009, 0, 2]}, "amenity": {"restaurant": [1057, 340, 2]}}]

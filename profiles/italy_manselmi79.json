@@ -1,0 +1,1 @@
+[{"Ways": [5065, 0, 3], "Nodes": [6503, 0, 10]}, {"addr:housenumber": {"*": [646, 0, 2]}, "building": {"*": [2058, 0, 2]}, "maxspeed": {"*": [1348, 0, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [5018, 0, 1]}}]

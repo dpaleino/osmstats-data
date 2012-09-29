@@ -1,1 +1,1 @@
-[{"Nodes": [5330, -36, 8]}, {"amenity": {"telephone": [200, 0, 1], "parking": [1621, -9, 1]}, "highway": {"bus_stop": [308, -2, 5]}}]
+[{"Ways": [6016, 0, 2], "Nodes": [6241, -911, 13]}, {"amenity": {"telephone": [356, -156, 1], "parking": [2075, -454, 1]}, "highway": {"bus_stop": [420, -112, 4], "streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [4664, 0, 2]}}]

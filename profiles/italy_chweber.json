@@ -1,1 +1,1 @@
-[{"Ways": [4076, -32, 3], "Nodes": [4245, -25, 28]}, {"highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3198, 410, 3]}}]
+[{"Ways": [3227, 849, 15], "Nodes": [2287, 1958, 492]}, {"sac_scale": {"*": [704, 0, 3]}, "tracktype": {"*": [1184, 0, 3]}, "highway": {"path": [1635, 0, 2], "footway": [1345, 0, 2]}}]

@@ -1,1 +1,1 @@
-[{"Nodes": [6150, -41, 3]}, {"railway": {"*": [433, 4, 3]}}]
+[{"Ways": [6971, 0, 1], "Nodes": [5245, 905, 33]}, {"railway": {"*": [171, 262, 32]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [5509, 0, 1]}}]

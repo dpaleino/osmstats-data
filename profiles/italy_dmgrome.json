@@ -1,1 +1,1 @@
-[{"Ways": [4727, -31, 2], "Nodes": [5580, -36, 6]}, {"barrier": {"*": [817, -5, 1]}, "amenity": {"fast_food": [307, -5, 1]}, "highway": {"streets|road;service;pedestrian;living_street;residential;unclassified;tertiary;secondary_link;secondary;primary_link;primary;trunk_link;trunk;motorway_link;motorway;bus_guideway": [3663, -24, 2]}, "power": {"tower": [187, -2, 1]}}]
+[{"Nodes": [7145, -1565, 6]}, {"amenity": {"fast_food": [419, -112, 1]}, "barrier": {"*": [1423, -606, 1]}, "power": {"tower": [281, -94, 1]}}]
